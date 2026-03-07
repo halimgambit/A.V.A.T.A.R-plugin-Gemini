@@ -1,0 +1,13 @@
+{
+	"modules": { 
+		"Gemini": {
+			"version": "1.0",
+			"name": "gemini",
+			"apiKey": "AIzaSyC0N0h8XW9mG8qApujK2a0AlToEXZxb66M",
+			"rules": {
+				"getGemini": ["ask gemini"]
+			}
+		}
+	}
+}
+			
