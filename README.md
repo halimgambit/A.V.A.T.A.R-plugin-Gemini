@@ -7,4 +7,4 @@ https://ai.google.dev/gemini-api/docs?hl=fr , pour s'inscrir et créer une clé 
 
 https://aistudio.google.com/welcome
 
-la regle est: demande à gemini/gemini c'est qui albert einstein ou demande à gemini/gemini c'est qui emanuel macron.
+la regle est: demande à gemini/gemini ou avatar c'est qui albert einstein ou demande à gemini/gemini ou avatar c'est qui emanuel macron.
