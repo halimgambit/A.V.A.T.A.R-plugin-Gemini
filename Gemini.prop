@@ -5,7 +5,7 @@
 			"name": "gemini",
 			"apiKey": "",
 			"rules": {
-				"getGemini": ["ask gemini","gemini"]
+				"getGemini": ["ask gemini","gemini","avatar"]
 			}
 		}
 	}
