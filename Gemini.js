@@ -36,6 +36,7 @@ async function getGemini(data, client, callback) {
 		const question = sentence
 			.replace(/demande à gemini/gi, "")
 			.replace(/gemini/gi, "")
+			.replace(/avatar/gi, "")
 			.trim();
 
 		if (!question) {
